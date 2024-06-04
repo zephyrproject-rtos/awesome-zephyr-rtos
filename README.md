@@ -122,7 +122,6 @@
 - [zephyr-usb-midi](https://github.com/stuffmatic/zephyr-usb-midi) - This is a USB MIDI 1.0 device class driver for the Zephyr RTOS, which allows sending and receiving MIDI data (including system exclusive messages) over USB.
 - [zscilib](https://github.com/zephyrproject-rtos/zscilib) - Scientific computing library.
 - [zcalendar](https://github.com/bpbradley/zcalendar) - Calendar API with RTC integration.
-- [zmk](https://github.com/zmkfirmware/zmk) - Keyboard firmware with a rich featureset and broad hardware support.
 
 ## Tools
 
@@ -198,10 +197,16 @@ Note: the official SDK includes several compilers.
 
 - [zephyr-pre-commit-hooks](https://github.com/cgnd/zephyr-pre-commit-hooks) - A collection of [pre-commit](https://pre-commit.com/) hooks for use with Zephyr.
 
-## Open Source Hardware
+## Open Source Hardware & Firmware
 
-- [ZMK](https://github.com/zmkfirmware/zmk) - ZMK Firmware is an open source (MIT) keyboard firmware built on the Zephyr™ Project Real Time Operating System (RTOS).
+- [ZMK](https://github.com/zmkfirmware/zmk) - ZMK Firmware is an open source (MIT) keyboard firmware with a rich featureset and broad hardware support built on Zephyr.
 - [ZSWatch](https://github.com/jakkra/ZSWatch) - The Open Source Zephyr™ based Smartwatch, including both HW and FW.
+- [Intel Embedded Controller firmware](https://github.com/intel/ecfw-zephyr)
+- [Laird Connectivity Sentrius MG100 Gateway firmware](https://github.com/LairdCP/Pinnacle_100_Sample_Applications_Manifest)
+- [Libre Solar Charge Controller Firmware](https://github.com/LibreSolar/charge-controller-firmware)
+- [Open Source Watch toolkit](https://github.com/najnesnaj/pinetime-zephyr)
+* [ChromeOS Embedded Controller (EC)](https://chromium.googlesource.com/chromiumos/platform/ec/+/refs/heads/main/docs/zephyr/README.md#Shared-Code)
+- [FindMyCat - The Open-Source Pet Tracker](https://www.findmycat.io/)
 
 ## Videos
 
