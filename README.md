@@ -129,26 +129,10 @@
 ### Build & Config
 
 - [bazel2zephyr](https://github.com/GatCode/bazel2zephyr) - Embedded/bare-metal development using bazel.
-- CMake
-- Device Tree
-  - [dtsh](https://github.com/dottspina/dtsh) - Shell-like interface to devicetrees.
-- KConfig
-- Make
-- Ninja
+- [dtsh](https://github.com/dottspina/dtsh) - Shell-like interface to devicetrees.
 - [Swedish Embedded Platform SDK Docker Image](https://github.com/swedishembedded/develop) - Docker containers for CI & development.
 - [action-setup-zephyr](https://github.com/zephyrproject-rtos/action-zephyr-setup) - This action initializes a Zephyr based project, downloading the Zephyr SDK and the necessary modules for a West based [Zephyr workspace application](https://docs.zephyrproject.org/latest/develop/application/index.html#zephyr-workspace-app).
 - [Zephyr Container Images](https://github.com/embeddedcontainers/zephyr) - Develop Zephyr applications using OCI-compatible Docker images.
-
-### Compilers
-
-Note: the official SDK includes several compilers.
-
-- GNU Arm Embedded
-- Arm Compiler 6
-- Intel oneAPI Toolkit
-- DesignWare ARC MetaWare Development Toolkit (MWDT)
-- Cadence Tensilica Xtensa C/C++ Compiler (XCC)
-- Espressif tools
 
 ### Editors & IDEs
 
