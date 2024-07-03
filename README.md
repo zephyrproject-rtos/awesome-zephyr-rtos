@@ -205,7 +205,7 @@ Note: the official SDK includes several compilers.
 - [Laird Connectivity Sentrius MG100 Gateway firmware](https://github.com/LairdCP/Pinnacle_100_Sample_Applications_Manifest)
 - [Libre Solar Charge Controller Firmware](https://github.com/LibreSolar/charge-controller-firmware)
 - [Open Source Watch toolkit](https://github.com/najnesnaj/pinetime-zephyr)
-* [ChromeOS Embedded Controller (EC)](https://chromium.googlesource.com/chromiumos/platform/ec/+/refs/heads/main/docs/zephyr/README.md#Shared-Code)
+- [ChromeOS Embedded Controller (EC)](https://chromium.googlesource.com/chromiumos/platform/ec/+/refs/heads/main/docs/zephyr/README.md#Shared-Code)
 - [FindMyCat - The Open-Source Pet Tracker](https://www.findmycat.io/)
 
 ## Videos
