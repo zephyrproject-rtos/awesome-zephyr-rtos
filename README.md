@@ -191,6 +191,7 @@
 - [Open Source Watch toolkit](https://github.com/najnesnaj/pinetime-zephyr)
 - [ChromeOS Embedded Controller (EC)](https://chromium.googlesource.com/chromiumos/platform/ec/+/refs/heads/main/docs/zephyr/README.md#Shared-Code)
 - [FindMyCat - The Open-Source Pet Tracker](https://www.findmycat.io/)
+- [CANnectivity - USB to CAN adapter firmware](https://github.com/CANnectivity/cannectivity)
 
 ## Videos
 
