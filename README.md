@@ -67,7 +67,6 @@
 ### IoT & Cloud
 
 - [Anjay-zephyr](https://github.com/AVSystem/Anjay-zephyr) - C implementation of the client-side OMA LwM2M protocol.
-- [Edge Impulse](https://github.com/edgeimpulse/example-standalone-inferencing-zephyr) - Machine learning on edge devices.
 - [Golioth](https://github.com/golioth/golioth-zephyr-sdk) - Device Management & cloud enablement platform.
 - [Memfault](https://github.com/memfault/memfault-firmware-sdk/tree/master/ports/zephyr) - Cloud-based debugging & observability.
 - [openhaystack-zephyr](https://github.com/koenvervloesem/openhaystack-zephyr) - Track personal Bluetooth devices via Apple's massive Find My network.
@@ -80,6 +79,11 @@
 - [lispBM](https://github.com/svenssonjoel/lispBM) - LispBM is a lisp or scheme like programming language for microcontrollers.
 - [micropython](https://github.com/micropython/micropython) - a lean and efficient Python implementation for microcontrollers and constrained systems.
 - [wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - Lightweight standalone WebAssembly (WASM) runtime.
+
+### Machine Learning / TinyML
+
+- [Edge Impulse](https://github.com/edgeimpulse/example-standalone-inferencing-zephyr) - Machine learning on edge devices.
+- [emlearn](https://github.com/emlearn/emlearn) - Machine learning for micro-controller and embedded systems.
 
 ### Networking & Protocols
 
