@@ -148,6 +148,8 @@
 - [PlatformIO](https://docs.zephyrproject.org/latest/guides/platformio/index.html)
 - [VS Code importer](https://github.com/smrtos/Zephyr2VSC)
 - [Zephyrus](https://github.com/tuScale/vscode-zephyrus)
+- [Zephyr IDE](https://marketplace.visualstudio.com/items?itemName=mylonics.zephyr-ide) - VS code extension which provides tools to aide Zephyr Project work flow
+- [Zephyr Workbench](https://marketplace.visualstudio.com/items?itemName=Ac6.zephyr-workbench) - VS code extension which adds Zephyr project support
 
 #### Other Editors & IDEs
 
