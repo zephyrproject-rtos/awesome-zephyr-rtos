@@ -196,6 +196,7 @@
 - [ChromeOS Embedded Controller (EC)](https://chromium.googlesource.com/chromiumos/platform/ec/+/refs/heads/main/docs/zephyr/README.md#Shared-Code)
 - [FindMyCat - The Open-Source Pet Tracker](https://www.findmycat.io/)
 - [CANnectivity - USB to CAN adapter firmware](https://github.com/CANnectivity/cannectivity)
+- [AkiraOS](https://github.com/ArturR0k3r/AkiraOS) - Open-source gaming console and cybersecurity toolkit running on ESP32-S3 with WebAssembly runtime for retro gaming and network analysis tools.
 
 ## Videos
 
