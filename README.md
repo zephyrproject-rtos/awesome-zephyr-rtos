@@ -100,7 +100,7 @@
 - [openthread](https://github.com/zephyrproject-rtos/openthread) - Thread mesh networking protocol.
 - [pjon](https://github.com/gioblu/PJON) - Multi-master, multi-media network protocol.
 - [S2OPC](https://gitlab.com/systerel/S2OPC) - Open-source OPC-UA Toolkit designed with security and embedded devices in mind.
-- [libcsp](https://github.com/libcsp/libcsp-zephyr) - A small network-layer delivery protocol designed for Cubesats.
+- [libcsp](https://github.com/libcsp/libcsp) - A small network-layer delivery protocol designed for Cubesats.
 
 ### Security
 
