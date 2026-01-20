@@ -74,6 +74,10 @@
 - [thingset-zephyr-sdk](https://github.com/ThingSet/thingset-zephyr-sdk) - A software development kit (SDK) based on Zephyr RTOS to integrate communication interfaces using the ThingSet protocol into an application with minimum effort. See https://thingset.io/.
 - [zephyrus](https://github.com/mustafaabdullahk/zephyrus) - A lightweight C library for exposing Prometheus metrics in Zephyr applications.
 
+### IPC
+
+- [ZIPM](https://github.com/uLipe/zipm) - A Zephyr RTOS friendly inter processor messaging module
+
 ### Languages & Runtimes
 
 - [lispBM](https://github.com/svenssonjoel/lispBM) - LispBM is a lisp or scheme like programming language for microcontrollers.
