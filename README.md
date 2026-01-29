@@ -59,6 +59,11 @@
 - [littlefs](https://github.com/zephyrproject-rtos/littlefs) - Little fail-safe filesystem designed for microcontrollers.
 - [nffs](https://github.com/zephyrproject-rtos/nffs) - Flash file system prioritizing minimal ram usage & reliability.
 
+### Graphics
+
+- [grvl](https://github.com/antmicro/grvl) - Graphics Rendering Visual Library.
+- [lvgl](https://github.com/zephyrproject-rtos/lvgl) - Light and Versatile Graphics Library.
+
 ### HAL/PAL
 
 - [cmsis](https://github.com/zephyrproject-rtos/cmsis) - Standardized API for the Cortex-M processor core and peripherals.
@@ -115,7 +120,6 @@
 
 - [ecfw-zephyr](https://github.com/intel/ecfw-zephyr) - Embedded Controller for low-level tasks on a motherboard like power sequencing.
 - [grbl](https://github.com/iwasz/zephyr-grbl) - Motion control for CNC milling.
-- [lvgl](https://github.com/zephyrproject-rtos/lvgl) - Complete graphics library.
 - [lz4](https://github.com/zephyrproject-rtos/lz4) - Extremely Fast Compression algorithm.
 - [pinetime-zephyr](https://github.com/najnesnaj/pinetime-zephyr) - Smartwatch operating system.
 - [zephyr-rust](https://github.com/tylerwhall/zephyr-rust) - API bindings, libstd, and Cargo integration for Rust.
