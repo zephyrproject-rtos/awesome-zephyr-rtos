@@ -47,6 +47,7 @@
 - [gsoc-2022-arduino-core](https://github.com/zephyrproject-rtos/gsoc-2022-arduino-core) - Arduino Core API module with an Arduino-C++ style abtraction layer.
 - [chre](https://github.com/zephyrproject-rtos/chre) - Context Hub Runtime Environment (CHRE) is Android’s platform for developing always-on applications, called nanoapps.
 - [control](https://github.com/swedishembedded/control) - A control systems design library written in pure C that provides you with advanced algorithms for control, state estimation and model identification specifically designed for use on embedded systems.
+- [libiio](https://github.com/analogdevicesinc/libiio) - A library for interacting with Industrial I/O (IIO) devices (e.g., ADCs, DACs, sensors).
 - [micro_ros_zephyr_module](https://github.com/micro-ROS/micro_ros_zephyr_module) - ROS 2 for microcontrollers.
 - [open-amp](https://github.com/zephyrproject-rtos/open-amp) - Open Asymmetric Multi Processing (OpenAMP) framework.
 - [Sense-VM](https://github.com/svenssonjoel/Sense-VM) - Bytecode virtual machine for microcontrollers.
