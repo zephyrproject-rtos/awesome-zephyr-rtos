@@ -161,6 +161,7 @@
 
 - [Eclipse](https://github.com/zephyrproject-rtos/eclipse-plugin)
 - [CMake Zephyr helpers](https://github.com/thirdpin/Zephyr-CMake-Helpers) - Enhance CMake automation for use with VS Code.
+- [AppBlocks](https://appblocks.io/) - No-Code in browser development environment that creates embedded firmware.
 
 ### Flash, Debug & Test
 
